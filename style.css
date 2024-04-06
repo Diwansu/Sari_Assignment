@@ -32,6 +32,7 @@ body {
     right: 42%;
     bottom:30%;
     position: absolute;
+    display : none;
     z-index: 5;
     background-color: rgb(165, 172, 179);
     width:500px;
